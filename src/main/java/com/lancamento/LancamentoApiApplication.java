@@ -1,13 +1,13 @@
-package com.money;
+package com.lancamento;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MoneyApiApplication {
+public class LancamentoApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MoneyApiApplication.class, args);
+		SpringApplication.run(LancamentoApiApplication.class, args);
 	}
 
 }
